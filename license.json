@@ -18,10 +18,5 @@
     "active": true,
     "mode": "dist",
     "name": "배포자2"
-  },
-  "ADMIN-Z73WZR": {
-    "active": true,
-    "mode": "admin",
-    "name": "추가"
   }
 }
