@@ -1,6 +1,27 @@
 {
-  "OWNER-001": {"active": true, "mode": "owner", "name": "오너"},
-  "ADMIN-001": {"active": true, "mode": "admin", "name": "관리자1"},
-  "DIST-001": {"active": true, "mode": "dist", "name": "배포자1"},
-  "DIST-002": {"active": true, "mode": "dist", "name": "배포자2"}
+  "OWNER-001": {
+    "active": true,
+    "mode": "owner",
+    "name": "오너"
+  },
+  "ADMIN-001": {
+    "active": true,
+    "mode": "admin",
+    "name": "관리자1"
+  },
+  "DIST-001": {
+    "active": true,
+    "mode": "dist",
+    "name": "배포자1"
+  },
+  "DIST-002": {
+    "active": true,
+    "mode": "dist",
+    "name": "배포자2"
+  },
+  "ADMIN-Z73WZR": {
+    "active": true,
+    "mode": "admin",
+    "name": "추가"
+  }
 }
