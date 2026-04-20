@@ -18,5 +18,10 @@
     "active": true,
     "mode": "dist",
     "name": "배포자2"
+  },
+  "DIST-C4FKCU": {
+    "active": true,
+    "mode": "dist",
+    "name": "데롱"
   }
 }
