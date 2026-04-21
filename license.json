@@ -13,5 +13,10 @@
     "active": true,
     "mode": "dist",
     "name": "배포자1"
+  },
+  "DIST-4ZZAIC": {
+    "active": true,
+    "mode": "dist",
+    "name": "배포자2"
   }
 }
