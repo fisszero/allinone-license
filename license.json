@@ -22,5 +22,11 @@
     "name": "배포자2",
     "blog_id": "8723009551779856733",
     "blog_name": "블로그스팟침수"
+  },
+  "DIST-CH7DI6PYYGAV-C79": {
+    "active": true,
+    "mode": "dist",
+    "name": "ff",
+    "platform": "blogspot"
   }
 }
