@@ -31,6 +31,6 @@
     "active": true,
     "mode": "dist",
     "name": "ff",
-    "platform": "wordpress"
+    "platforms": []
   }
 }
