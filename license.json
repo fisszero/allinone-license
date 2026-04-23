@@ -32,7 +32,8 @@
     "mode": "dist",
     "name": "배포자3",
     "platforms": [
-      "blogspot"
+      "blogspot",
+      "wordpress"
     ]
   }
 }
