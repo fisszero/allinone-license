@@ -28,7 +28,7 @@
     "platforms": []
   },
   "DIST-CH7DI6PYYGAV-C79": {
-    "active": false,
+    "active": true,
     "mode": "dist",
     "name": "ff",
     "platforms": [
