@@ -30,7 +30,7 @@
     ]
   },
   "DIST-GWTLQUK2F9RK-BCB": {
-    "active": true,
+    "active": false,
     "mode": "dist",
     "name": "배포자3",
     "platforms": [
