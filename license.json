@@ -31,6 +31,8 @@
     "active": true,
     "mode": "dist",
     "name": "ff",
-    "platforms": []
+    "platforms": [
+      "blogspot"
+    ]
   }
 }
