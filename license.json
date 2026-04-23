@@ -32,7 +32,6 @@
     "mode": "dist",
     "name": "ff",
     "platforms": [
-      "blogspot",
       "wordpress"
     ]
   }
