@@ -27,6 +27,6 @@
     "active": true,
     "mode": "dist",
     "name": "ff",
-    "platform": "blogspot"
+    "platform": "wordpress"
   }
 }
