@@ -6,5 +6,13 @@
     "platforms": [
       "blogspot"
     ]
+  },
+  "ef72f61623a6b6145727db0b5ab0e73a5ea4965e216a7bdf98a7d04e5f2dbeae": {
+    "active": true,
+    "mode": "dist",
+    "name": "A2",
+    "platforms": [
+      "blogspot"
+    ]
   }
 }
