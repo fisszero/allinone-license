@@ -1,1 +1,10 @@
-{}
+{
+  "4bda563fe5bfc0e8543df3e07208c1520a6709f9f304dcfe3f1f3e86a0120d49": {
+    "active": true,
+    "mode": "dist",
+    "name": "a1",
+    "platforms": [
+      "blogspot"
+    ]
+  }
+}
