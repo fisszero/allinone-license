@@ -9,5 +9,11 @@
     "email": "ssosiega@gmail.com",
     "blog_id": "8723009551779856733",
     "blog_name": "로그인 침수청소"
+  },
+  "c07a4b2d2c42eaadfc52f83b334f746b93373f3865466444e87ceb867e3bf346": {
+    "active": true,
+    "mode": "admin",
+    "name": "관리자",
+    "email": "ssosiega@gmail.com"
   }
 }
