@@ -16,6 +16,8 @@
     "mode": "admin",
     "name": "관리자",
     "email": "ssosiega@gmail.com",
-    "platforms": []
+    "platforms": [
+      "blogspot"
+    ]
   }
 }
