@@ -16,7 +16,8 @@
     "name": "관리자",
     "email": "ssosiega@gmail.com",
     "platforms": [
-      "blogspot"
+      "blogspot",
+      "wordpress"
     ]
   }
 }
