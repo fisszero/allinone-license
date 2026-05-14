@@ -8,17 +8,5 @@
       "blogspot",
       "wordpress"
     ]
-  },
-  "1781b21a302fa0e618c80bb11c1c86fb632bcad7428bcc4f5c3dc7776ace4d40": {
-    "active": true,
-    "mode": "dist",
-    "name": "DIST_1",
-    "email": "ssosiega@gmail.com",
-    "blog_id": "6699869566831576679",
-    "blog_name": "DIST",
-    "platforms": [
-      "blogspot",
-      "wordpress"
-    ]
   }
 }
