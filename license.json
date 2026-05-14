@@ -17,7 +17,8 @@
     "blog_id": "6699869566831576679",
     "blog_name": "DIST",
     "platforms": [
-      "blogspot"
+      "blogspot",
+      "wordpress"
     ]
   }
 }
