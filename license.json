@@ -3,6 +3,9 @@
     "active": true,
     "mode": "admin",
     "name": "관리자1",
-    "email": "ssosiega@gmail.com"
+    "email": "ssosiega@gmail.com",
+    "platforms": [
+      "blogspot"
+    ]
   }
 }
