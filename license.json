@@ -4,6 +4,7 @@
     "mode": "dist",
     "name": "A1",
     "platforms": [
+      "blogspot",
       "wordpress"
     ],
     "email": "ssosiega@gmail.com",
